@@ -2,7 +2,7 @@
 
 Bluetooth LE sample app for **flutterffi**, built with **Riverpod** and **flutter_blue_plus**.
 
-Paired with [ffi_bloc_app](https://github.com/flutterffi/ffi_bloc_app) for the same BLE features using **flutter_bloc** — see the [Bloc vs Riverpod BLE topic](https://github.com/flutterffi/flutter_interview/blob/main/topics/bloc-riverpod-ble.md).
+Paired with [ffi_bloc_app](https://github.com/flutterffi/ffi_bloc_app) (Bloc + Cubit modes) — see the [Bloc / Cubit / Riverpod BLE topic](https://github.com/flutterffi/flutter_interview/blob/main/topics/bloc-riverpod-ble.md).
 
 ## Features
 
